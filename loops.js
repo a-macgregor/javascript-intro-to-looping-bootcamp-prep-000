@@ -14,8 +14,9 @@ return array;
 }
 
 //WHILE loop
-
+function {
 
   while () {
     
   }
+}
