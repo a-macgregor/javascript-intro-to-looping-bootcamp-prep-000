@@ -14,9 +14,9 @@ return array;
 }
 
 //WHILE loop
-function {
+function whileLoop(number) {
 
-  while () {
-    
+  while (countdown > 0) {
+    console.log(--countdown);
   }
 }
