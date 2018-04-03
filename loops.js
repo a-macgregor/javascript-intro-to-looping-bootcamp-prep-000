@@ -20,3 +20,5 @@ function whileLoop(number) {
     console.log(--countdown);
   }
 }
+
+return 'done'
