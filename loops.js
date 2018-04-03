@@ -21,4 +21,4 @@ function whileLoop(number) {
   }
 }
 
-return 'done'
+return 'done';
