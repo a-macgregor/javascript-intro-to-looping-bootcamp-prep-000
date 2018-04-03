@@ -8,3 +8,5 @@ let forLoop = function() {
     }
   }
 };
+
+console.log(forLoop);
